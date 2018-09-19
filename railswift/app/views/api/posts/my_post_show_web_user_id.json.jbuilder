@@ -1,0 +1,1 @@
+json.array! @api_posts, :id, :web_user_id, :post_image, :title_name
